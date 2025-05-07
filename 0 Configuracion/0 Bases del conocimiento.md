@@ -92,7 +92,7 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - Para facturación A, notificar al asesor con el CUIT.
 - La factura se emite a nombre del titular, pero se puede solicitar a nombre de otro pasajero.
 
-### Cancelaciones
+### Cancelaciones de solo de paquetes
 
 - Solicitar por email a soporte@kmbgo.com.ar (número de reserva y datos del pasajero).
 - Retenciones según anticipación:
@@ -138,13 +138,15 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - *Compra en web de DUMAS:* Enviar correo a comercial@grupoher.com.ar.
 - *Compra en Central de Pasajes/Plataforma 10:* Realizar el reclamo en esa misma web.
 
-### Devolución de pasaje
+### Devolución de pasaje o cancelación o anulación de un pasaje
 
-Realizar la solicitud por el mismo medio de compra.
+1. Ante la consulta se debe preguntar si el pasaje fue comprado por la web de DUMAS o en otra plataforma, whatsapp oficial o en la boletería de la terminal.
 
-- *Web:* Clic en "Devolver mi pasaje" debajo del carro de compras.
-- *Boletería:* Ir con el boleto físico.
-- *WhatsApp Oficial:* Indicar número de boleto y derivar al departamento de ventas.
+2. luego indicar que de acuerdo al medio donde lo compró debe:
+
+- *Web:* Clic en "Devolver mi pasaje" debajo del carro de compras. (sitio web oficial es: www.dumascat.com.ar)
+- *Boletería de la terminal:* Ir con el boleto físico.
+- *WhatsApp Oficial:* Indicar número de boleto y derivar al departamento de ventas. (whatsapp oficial de Dumascat/DUMAS es: +5493512329664)
 
 #### Reintegro según anticipación:
 
@@ -193,6 +195,13 @@ Boleto y DNI/pasaporte físico.
   - Los pasajeros que embarcan en Catriló Cruce solo pueden descender en La Plata.
   - Los pasajeros que embarcan en Trenque Lauquen, Pehuajó y Carlos Casares Cruce pueden descender en Retiro y La Plata.
 
+#### Ruta: La Plata - Santa Rosa por RN5
+
+- *Embarques:* La Plata, Retiro y Liniers.
+- *Desembarques:* Pehuajó, Trenque Lauquen, Catriló Cruce y Santa Rosa.
+- *Excepciones:*
+  - Los pasajeros que embarcan en Trenque Lauquen y Pehuajó  solo pueden descender en Santa Rosa.
+
 #### Ruta: Santa Rosa - La Plata por RN7
 
 - *Embarques:* Santa Rosa, Winifreda Cruce, Eduardo Castex, General Pico, Intendente Alvear
@@ -200,17 +209,43 @@ Boleto y DNI/pasaporte físico.
 - *Excepciones:*
     - Los pasajeros que embarcan en General Villegas pueden descender en Retiro y La Plata.
 
+#### Ruta: La Plata - Santa Rosa por RN7
+
+- *Desembarques:* Intendente Alvear, General Pico,  Santa Rosa, Eduardo Castex, Winifreda Cruce y Santa Rosa. 
+- *Embarques:* La Plata, Retiro, Liniers, General Villegas.
+
+
 #### Ruta: Santa Rosa - Córdoba por RN 35
 
 - *Embarques:* Santa Rosa, Winifreda Cruce, Eduardo Castex, General Pico, Intendente Alvear, Trenel, Realicó
 - *Desembarques:* Río Cuarto, Córdoba
 
+#### Ruta: Córdoba - Santa Rosa por RN 35
+
+- *Embarques:* Córdoba y Río Cuarto.
+- *Desembarques :* Realicó, Intendente Alvear, General Pico,Trenel, Eduardo Castex, Winifreda Cruce y Santa Rosa.
+
+
 #### Ruta: Paraná - Córdoba
 
 - *Embarques:* Paraná, Santa Fe, Santo Tomé (Parador)
-- *Desembarques:* San Francisco (Acceso), Arroyito (Terminal), Córdoba (Terminal)
+- *Desembarques:* San Francisco (Terminal), Arroyito (Terminal), Córdoba (Terminal)
+
+#### Ruta: Córdoba - Paraná
+
+- *Embarques:* Córdoba (Terminal), Arroyito (Terminal), San Francisco (Terminal)
+- *Desembarques:* Santo Tomé (Parador), Santa Fe, Paraná
 
 #### Ruta: Córdoba - Neuquén
 
 - *Embarques:* Córdoba, Río Cuarto, Realicó, Trenel, General Pico, Eduardo Castex, Santa Rosa
 - *Desembarques:* Ataliva Roca, Padre Buodo, Perú Cruce, Río Colorado, Choele Choel, Chimpay Cruce, Chelforo Cruce, Chichinales Cruce, Villa Regina Cruce, Ingeniero Huergo, Cervantes Cruce, General Roca, Allen, Cipolletti, Neuquén
+- *Excepciones:*
+    - Los pasajeros que embarcan en  Padre Buodo, Perú Cruce, Río Colorado, Choele Choel, Chimpay Cruce, Chelforo Cruce, Chichinales Cruce, Villa Regina Cruce, Ingeniero Huergo, Cervantes Cruce, General Roca pueden descender en Neuquén 
+
+#### Ruta: Neuquén - Córdoba
+
+- *Embarques:* Ataliva Roca, Padre Buodo, Perú Cruce, Río Colorado, Choele Choel, Chimpay Cruce, Chelforo Cruce, Chichinales Cruce, Villa Regina Cruce, Ingeniero Huergo, Cervantes Cruce, General Roca, Allen, Cipolletti, Neuquén
+- *Desembarques:* Córdoba, Río Cuarto, Realicó, Trenel, General Pico, Eduardo Castex, Santa Rosa
+- *Excepciones:*
+    - Los pasajeros que embarcan en Realicó, Trenel, General Pico, Eduardo Castex, Santa Rosa,  pueden descender en Córdoba.
