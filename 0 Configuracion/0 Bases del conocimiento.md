@@ -16,10 +16,17 @@ Convertirnos en la agencia de viajes en línea líder en Argentina, reconocida p
 
 Para más información o consultas:
 
-- *WhatsApp:* +54 9 3512 32-9664
+- WhatsApp: +54 9 3512 32-9664. Este número solo se debe informar si el cliente esta en el canal web, instagram o facebook. Si el cliente está en WhatsApp no se le debe informar el número de WhatsApp.
 - *Sitio Web:* [www.kmbgo.com.ar](https://kmbgo.com.ar/)
 - *Correo Electrónico:* <soporte@kmbgo.com.ar>
 - *Dirección:* Córdoba, Argentina (operación online).
+
+## Horarios de Atención
+
+- Lunes a Viernes: 9:00 a 21:00 hs.
+- Sábados, Domingos y Feriados: 10:00 a 12:00 hs.
+- Feriados: 10:00 a 12:00 hs.
+- Atención Virtual: 100% virtual
 
 ## Redes Sociales
 
@@ -133,14 +140,15 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - *Compra en web de DUMAS:* Enviar correo a <comercial@grupoher.com.ar>.
 - *Compra en Central de Pasajes/Plataforma 10:* Realizar el reclamo en esa misma web.
 
-### Devolución de pasaje, "dejar abierto un pasaje" o cancelación o anulación de un pasaje
+### Devolución de pasaje, "dejar abierto un pasaje" o cancelación o anulación de un pasaje o cambio de pasaje o de fecha
 
-1. Ante la consulta se debe preguntar si el pasaje fue comprado por la web de DUMAS o en otra plataforma, whatsapp oficial o en la boletería de la terminal.
+1. Ante la consulta SIEMPRE debe preguntar si el pasaje fue comprado por la web de DUMAS o en otra plataforma como Central de Pasajes o Plataforma 10, WhatsApp oficial o en la boletería de la terminal.
 2. luego indicar que de acuerdo al medio donde lo compró debe:
 
    - *Web:* Clic en "Devolver mi pasaje" debajo del carro de compras. (sitio web oficial es: <www.dumascat.com.ar>)
    - *Boletería de la terminal:* Ir con el boleto físico.
-   - *WhatsApp Oficial:* Indicar número de boleto y derivar al departamento de ventas. (WhatsApp oficial de Dumascat/DUMAS es: +5493512329664)
+   - *WhatsApp Oficial:* Indicar número de boleto y derivar al departamento de ventas. (WhatsApp oficial de Dumascat/DUMAS es: +5493512329664). Solo se atiende si se esta dentro del horario de atención.
+   - Si el pasaje fue comprado en Central de Pasajes o Plataforma 10, se debe gestionar la devolución a través de esa misma web.
 
 #### Reintegro según anticipación
 
@@ -251,3 +259,103 @@ Aquí se listan las combinaciones de ruta con embarques y desembarques disponibl
 
 - *Embarques:* Montevideo, Mercedes, Fray Bentos.
 - *Desembarques:* Gualeguaychú,  Gualeguay , Victoria, Rosario , Bell Ville , Villa Maria , Córdoba.
+
+## Dias Feriados año 2025
+
+[
+  {
+    "fecha": "2025-01-01",
+    "tipo": "inamovible",
+    "nombre": "Año nuevo"
+  },
+  {
+    "fecha": "2025-03-03",
+    "tipo": "inamovible",
+    "nombre": "Carnaval"
+  },
+  {
+    "fecha": "2025-03-04",
+    "tipo": "inamovible",
+    "nombre": "Carnaval"
+  },
+  {
+    "fecha": "2025-03-24",
+    "tipo": "inamovible",
+    "nombre": "Día Nacional de la Memoria por la Verdad y la Justicia"
+  },
+  {
+    "fecha": "2025-04-02",
+    "tipo": "inamovible",
+    "nombre": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+  },
+  {
+    "fecha": "2025-04-18",
+    "tipo": "inamovible",
+    "nombre": "Viernes Santo"
+  },
+  {
+    "fecha": "2025-05-01",
+    "tipo": "inamovible",
+    "nombre": "Día del Trabajador"
+  },
+  {
+    "fecha": "2025-05-02",
+    "tipo": "puente",
+    "nombre": "Puente turístico no laborable"
+  },
+  {
+    "fecha": "2025-05-25",
+    "tipo": "inamovible",
+    "nombre": "Día de la Revolución de Mayo"
+  },
+  {
+    "fecha": "2025-06-16",
+    "tipo": "trasladable",
+    "nombre": "Paso a la Inmortalidad del General Martín Güemes"
+  },
+  {
+    "fecha": "2025-06-20",
+    "tipo": "inamovible",
+    "nombre": "Paso a la Inmortalidad del General Manuel Belgrano"
+  },
+  {
+    "fecha": "2025-07-09",
+    "tipo": "inamovible",
+    "nombre": "Día de la Independencia"
+  },
+  {
+    "fecha": "2025-08-15",
+    "tipo": "puente",
+    "nombre": "Puente turístico no laborable"
+  },
+  {
+    "fecha": "2025-08-17",
+    "tipo": "trasladable",
+    "nombre": "Paso a la Inmortalidad del Gral. José de San Martín"
+  },
+  {
+    "fecha": "2025-10-12",
+    "tipo": "trasladable",
+    "nombre": "Día del Respeto a la Diversidad Cultural"
+  },
+  {
+    "fecha": "2025-11-21",
+    "tipo": "puente",
+    "nombre": "Puente turístico no laborable"
+  },
+  {
+    "fecha": "2025-11-24",
+    "tipo": "trasladable",
+    "nombre": "Día de la Soberanía Nacional"
+  },
+  {
+    "fecha": "2025-12-08",
+    "tipo": "inamovible",
+    "nombre": "Día de la Inmaculada Concepción de María"
+  },
+  {
+    "fecha": "2025-12-25",
+    "tipo": "inamovible",
+    "nombre": "Navidad"
+  }
+]
