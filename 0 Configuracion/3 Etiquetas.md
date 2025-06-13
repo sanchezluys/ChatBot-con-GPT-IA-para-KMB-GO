@@ -1,4 +1,3 @@
-- Si la respuesta del LLM incluye expresiones de agradecimiento del usuario, como "gracias" o "muy amable", asigna la etiqueta 'AGRADECIMIENTO'.
 - Si la consulta del usuario se centra principalmente en opciones de alojamiento, como hoteles, hostales o alquileres vacacionales, asigna la etiqueta 'ALOJAMIENTO'.
 - Si la respuesta del LLM menciona específicamente la localidad de Bombas (Brasil), asigna la etiqueta 'BOMBAS'.
 - Si la respuesta del LLM menciona específicamente la localidad de Bombinhas (Brasil), asigna la etiqueta 'BOMBINHAS'.
@@ -8,18 +7,13 @@
 - Si la respuesta del LLM menciona específicamente la localidad de Camboriú (Brasil), asigna la etiqueta 'CAMBORIU'.
 - Si la respuesta del LLM menciona específicamente la localidad de Canasvieiras (Brasil), asigna la etiqueta 'CANASVIEIRAS'.
 - Si la respuesta del LLM menciona específicamente las Cataratas del Iguazú, asigna la etiqueta 'CATARATAS'.
-- Si la respuesta del LLM detecta que el usuario muestra un interés claro y explícito en comprar o reservar un servicio, asigna la etiqueta 'CLIENTE INTERESADO'.
-- Si la consulta del usuario se refiere a los términos y condiciones de un servicio o reserva, asigna la etiqueta 'CONDICIONES'.
-- Si la consulta del usuario es irrelevante, spam, contiene lenguaje ofensivo o es ininteligible, asigna la etiqueta 'CONSULTA BASURA'.
 - Si la respuesta del LLM ofrece solicitar una cotización o utiliza la IA Tool "quiere_cotizar", asigna la etiqueta 'Cotizar'.
 - Si la respuesta del LLM menciona específicamente la localidad de Ferrugem (Brasil), asigna la etiqueta 'FERRUGEM'.
 - Si la respuesta del LLM menciona específicamente Foz de Iguazú, asigna la etiqueta 'FOZ IGUAZÚ'.
 - Si la respuesta del LLM menciona específicamente la localidad de Garopaba (Brasil), asigna la etiqueta 'GAROPABA'.
 - Si la consulta del usuario se refiere a viajes o servicios para grupos de personas, asigna la etiqueta 'GRUPOS'.
-- Si la consulta del usuario indica que es un influencer o solicita una colaboración, asigna la etiqueta
 - Si la respuesta del LLM menciona que KMB es un operador mayorista, asigna la etiqueta 'KMB MAYORISTA'.
 - Si la consulta del usuario se refiere a servicios de línea de transporte (ej: buses), asigna la etiqueta 'LINEA'.
-- Si la respuesta del LLM menciona específicamente la línea Paraná, asigna la etiqueta 'LINEA PARANA'.
 - Si la respuesta del LLM menciona servicios mayoristas, asigna la etiqueta 'MAYORISTA'.
 - Si la respuesta del LLM menciona específicamente la provincia de Mendoza, asigna la etiqueta 'MENDOZA'.
 - Si la respuesta del LLM menciona específicamente la ciudad de Montevideo, asigna la etiqueta 'MONTEVIDEO'.
@@ -45,3 +39,5 @@
 - Si el usuario indica que ya tiene una reserva existente, asigna la etiqueta 'Tiene Reserva'.
 - Si el usuario proporciona información de contacto valiosa, como su nombre y dirección de correo electrónico, lo que indica un posible cliente potencial, asigna la etiqueta 'lead'.
 - Si la respuesta del LLM detecta que el usuario muestra un interés genuino en los servicios y es probable que realice una compra en el futuro, asigna la etiqueta 'posible venta'.
+- Si la respuesta del LLM detecta que el usuario quiere cancelar un boleto o solo pasaje, asigna la etiqueta 'Cancelar pasaje'.
+- Si la respuesta del LLM detecta que el usuario quiere pasajes de neuquen, Neuquén - Córdoba o Córdoba - Neuquén, asigna la etiqueta 'Línea Neuquén' y 'Línea Córdoba'.
