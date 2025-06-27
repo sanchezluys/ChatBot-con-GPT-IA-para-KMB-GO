@@ -49,7 +49,7 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 ## 2. Asientos y Servicios a Bordo
 
 - *Distribución de Butacas:* Varía según el tipo de bus (Butaca Cama, Bus Cama Completo, Butaca Semicama). Las butacas se asignan según la salida, pero se puede expresar preferencia al reservar.
-- *Voucher de Comidas:* Se entrega un voucher por pasajero (puede variar según el destino). Presenta un código QR en el restaurante.
+- *Voucher de Comidas:* Los pasajeros que compran el paquete en bus cama, les incluye el voucher de la cena. Aquellos que viajen en semi cama pueden agregarlo con un costo adicional. Se entrega un voucher por pasajero (puede variar según el destino). Presenta un código QR en el restaurante.
 
 ## 3. Documentación Obligatoria
 
@@ -81,12 +81,19 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
   - Transporte: Antes de abordar, en el horario indicado en el voucher.
 - *Check Out:* En la recepción del hotel (entregar la llave y cerrar la cuenta).
 
-## 6. Pagos, Facturación y Cancelaciones
+## 6. Pagos, Facturación y Cancelaciones de paquetes
 
-### Pagos
+### Pagos y formas de pago paquetes
 
 - *Formas de Pago:* Efectivo (cuentas bancarias KMB S.A. o DUMASCAT), pagos parciales (seña del 50%, 100% para congelar la tarifa), tarjetas de crédito (cuotas en reservas nacionales, un solo abono en internacionales), tambien se acepta Tarjeta Naranja VISA.
-- *Saldo en dólares:* Abonable hasta 15 días antes del viaje (múltiples operaciones, recibo por transacción).
+
+  - Paquetes internacionales:
+    - En dólares: vía transferencia o depósito en la cuenta de KMB del Banco Macro. (seña del 50%, 100% para congelar la tarifa). No se aceptan pagos con Tarjeta de Crédito
+    - En pesos: transferencia o depósito en la cuenta de KMB del Banco Macro o tarjeta de crédito en 1 SOLO PAGO. Saldos abonables hasta 15 días antes del viaje (múltiples operaciones, recibo por transacción).
+
+  - Paquetes nacionales (dentro de ARGENTINA)  : En peso vía transferencia o depósito en la cuenta de KMB del Banco Macro o tarjeta de crédito en cuotas (visa o master o tarjeta naranja x o visa).
+  
+  - Saldos abonables hasta 15 días antes del viaje (múltiples operaciones, recibo por transacción).
 
 ### Facturación
 
@@ -100,8 +107,8 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - Retenciones según anticipación:
   - Más de 30 días: 40%
   - 29-15 días: 50%
-  - 14-5 días: 70%
-  - Menos de 4 días: 100%
+  - 14-8 días: 70%
+  - Menos de 7 días: 100%
 
 ## 7. Comunicación
 
@@ -116,7 +123,15 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - *Kit Higiénico:* Kit higiénico, ropa cómoda/deportiva y abrigo.
 - *Celular (Internacional):* Consultar con la compañía para activar el roaming/plan de datos. Habilitar transacciones internacionales con el banco.
 
-## 9. Solo Boletos Nacionales
+## 9. Solo Boletos
+
+### Pagos y formas de pago Boletos
+
+- Transferencias a las cuentas de DUMASCAT.
+- Se debe abonar el 100% al momento de la emisión del boleto
+- Formas de pago:
+  - Transferencia
+  - Por Tarjeta de crédito en cuotas, para conocer las cuotas y montos es necesario revisarlas con un asesor
 
 ### Cambio de fecha de viaje
 
@@ -124,6 +139,22 @@ El voucher se divide en secciones numeradas: titular, embarque, hora de presenta
 - Si compro via WhatsApp, se le indica que será derivado al departamento de ventas para gestionar el cambio de fecha.
 - Si compró por la web de Dumas o en otra plataforma : Te informamos que para solicitar el cambio de tu boleto, debes hacerlo a través de la plataforma por la cual realizaste la compra inicial. Por este medio solo podemos gestionar cambios para boletos adquiridos directamente a través de este canal.
 - Si compraste tu boleto en nuestra web, por favor envía un correo solicitando el cambio a <clientes@centraldepasajes.com.ar>, ya que nuestro carro de compras está operado por Central de Pasajes.
+
+### Check-in
+
+#### Check-in – Ida (boletos al sur de Brasil)
+
+ Los pasajeros deben presentarse en la boletería de Dumas Cat en la terminal de salida, con la documentación correspondiente.
+ Se recomienda llegar con al menos 1 hora de anticipación al horario de salida.
+
+#### Check-in – Regreso desde el sur de Brasil
+
+ Para el regreso, los pasajeros deben presentarse en la boletería de Dumas Cat en la terminal correspondiente, con la documentación.
+ En este caso, deberán abonar la tasa de embarque al momento del check-in.
+
+#### Boletos nacionales
+
+Deben presentarse 30 min antes de la salida, con DNI en mano en la plataforma de embarque.
 
 ### Cambio de titularidad
 
@@ -183,7 +214,14 @@ No es necesario. Se puede mostrar el boleto digital desde su dispositivo
 
 ### Qué necesito para viajar
 
-Boleto y DNI/pasaporte físico.
+- Viajes nacionales : Boleto y DNI/pasaporte físico.
+
+- Viajes Internacionales (Sur de Brasil en Bus): Con un solo padre/tutor: DNI/pasaporte del menor, DNI del adulto, autorización legalizada, Libreta de familia/Partida de nacimiento (con DNI de acompañantes). Con ambos padres: DNI/pasaporte del menor, DNI de ambos adultos, Partida de Nacimiento/Certificado/Libreta Civil/Testimonio Judicial. DNI vigente, ultimo ejemplar.
+
+### Comunicación
+
+Grupo de WhatsApp: Se abre un día antes de la salida (información actualizada y consultas).
+Esto solamente aplica para los viajes al Sur de Brasil, ya que para los viajes nacionales no se abre grupo de WhatsApp.
 
 ### Combinaciones de ruta (ida y regreso)
 
@@ -213,7 +251,7 @@ Aquí se listan las combinaciones de ruta con embarques y desembarques disponibl
 
 #### Ruta: La Plata - Santa Rosa por RN7
 
-- *Desembarques:* Intendente Alvear, General Pico,  Santa Rosa, Eduardo Castex, Winifreda Cruce y Santa Rosa. 
+- *Desembarques:* Intendente Alvear, General Pico,  Santa Rosa, Eduardo Castex, Winifreda Cruce y Santa Rosa.
 - *Embarques:* La Plata, Retiro, Liniers, General Villegas.
 
 #### Ruta: Santa Rosa - Córdoba por RN 35
@@ -252,7 +290,7 @@ Aquí se listan las combinaciones de ruta con embarques y desembarques disponibl
 
 #### Ruta: Córdoba - Montevideo
 
-- *Embarques:* Córdoba , Villa Maria , Bell Ville, Rosario  , Victoria , Gualeguay , Gualeguaychú,  , 
+- *Embarques:* Córdoba , Villa Maria , Bell Ville, Rosario  , Victoria , Gualeguay , Gualeguaychú
 - *Desembarques:* Fray Bentos, Mercedes, Montevideo.
 
 #### Ruta: Montevideo - Córdoba
@@ -260,102 +298,31 @@ Aquí se listan las combinaciones de ruta con embarques y desembarques disponibl
 - *Embarques:* Montevideo, Mercedes, Fray Bentos.
 - *Desembarques:* Gualeguaychú,  Gualeguay , Victoria, Rosario , Bell Ville , Villa Maria , Córdoba.
 
+### Ruta : Córdoba a Camboriu (ruta 19)
+
+Embarques: Córdoba, Arroyito, San Francisco, Santa Fe, Paraná, Pasos de Libres.
+Desembarques: Sao Gabriel, Pantano Grande, Porto Alegre, Sombrio, Imbituba, Florianópolis, Itapema, Camboriu.
+
 ## Dias Feriados año 2025
 
-[
-  {
-    "fecha": "2025-01-01",
-    "tipo": "inamovible",
-    "nombre": "Año nuevo"
-  },
-  {
-    "fecha": "2025-03-03",
-    "tipo": "inamovible",
-    "nombre": "Carnaval"
-  },
-  {
-    "fecha": "2025-03-04",
-    "tipo": "inamovible",
-    "nombre": "Carnaval"
-  },
-  {
-    "fecha": "2025-03-24",
-    "tipo": "inamovible",
-    "nombre": "Día Nacional de la Memoria por la Verdad y la Justicia"
-  },
-  {
-    "fecha": "2025-04-02",
-    "tipo": "inamovible",
-    "nombre": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
-  },
-  {
-    "fecha": "2025-04-18",
-    "tipo": "inamovible",
-    "nombre": "Viernes Santo"
-  },
-  {
-    "fecha": "2025-05-01",
-    "tipo": "inamovible",
-    "nombre": "Día del Trabajador"
-  },
-  {
-    "fecha": "2025-05-02",
-    "tipo": "puente",
-    "nombre": "Puente turístico no laborable"
-  },
-  {
-    "fecha": "2025-05-25",
-    "tipo": "inamovible",
-    "nombre": "Día de la Revolución de Mayo"
-  },
-  {
-    "fecha": "2025-06-16",
-    "tipo": "trasladable",
-    "nombre": "Paso a la Inmortalidad del General Martín Güemes"
-  },
-  {
-    "fecha": "2025-06-20",
-    "tipo": "inamovible",
-    "nombre": "Paso a la Inmortalidad del General Manuel Belgrano"
-  },
-  {
-    "fecha": "2025-07-09",
-    "tipo": "inamovible",
-    "nombre": "Día de la Independencia"
-  },
-  {
-    "fecha": "2025-08-15",
-    "tipo": "puente",
-    "nombre": "Puente turístico no laborable"
-  },
-  {
-    "fecha": "2025-08-17",
-    "tipo": "trasladable",
-    "nombre": "Paso a la Inmortalidad del Gral. José de San Martín"
-  },
-  {
-    "fecha": "2025-10-12",
-    "tipo": "trasladable",
-    "nombre": "Día del Respeto a la Diversidad Cultural"
-  },
-  {
-    "fecha": "2025-11-21",
-    "tipo": "puente",
-    "nombre": "Puente turístico no laborable"
-  },
-  {
-    "fecha": "2025-11-24",
-    "tipo": "trasladable",
-    "nombre": "Día de la Soberanía Nacional"
-  },
-  {
-    "fecha": "2025-12-08",
-    "tipo": "inamovible",
-    "nombre": "Día de la Inmaculada Concepción de María"
-  },
-  {
-    "fecha": "2025-12-25",
-    "tipo": "inamovible",
-    "nombre": "Navidad"
-  }
-]
+| Fecha       | Tipo         | Nombre                                                        |
+|-------------|--------------|---------------------------------------------------------------|
+| 2025-01-01  | inamovible   | Año nuevo                                                     |
+| 2025-03-03  | inamovible   | Carnaval                                                      |
+| 2025-03-04  | inamovible   | Carnaval                                                      |
+| 2025-03-24  | inamovible   | Día Nacional de la Memoria por la Verdad y la Justicia        |
+| 2025-04-02  | inamovible   | Día del Veterano y de los Caídos en la Guerra de Malvinas     |
+| 2025-04-18  | inamovible   | Viernes Santo                                                 |
+| 2025-05-01  | inamovible   | Día del Trabajador                                            |
+| 2025-05-02  | puente       | Puente turístico no laborable                                 |
+| 2025-05-25  | inamovible   | Día de la Revolución de Mayo                                  |
+| 2025-06-16  | trasladable  | Paso a la Inmortalidad del General Martín Güemes              |
+| 2025-06-20  | inamovible   | Paso a la Inmortalidad del General Manuel Belgrano            |
+| 2025-07-09  | inamovible   | Día de la Independencia                                       |
+| 2025-08-15  | puente       | Puente turístico no laborable                                 |
+| 2025-08-17  | trasladable  | Paso a la Inmortalidad del Gral. José de San Martín           |
+| 2025-10-12  | trasladable  | Día del Respeto a la Diversidad Cultural                      |
+| 2025-11-21  | puente       | Puente turístico no laborable                                 |
+| 2025-11-24  | trasladable  | Día de la Soberanía Nacional                                  |
+| 2025-12-08  | inamovible   | Día de la Inmaculada Concepción de María                      |
+| 2025-12-25  | inamovible   | Navidad                                                       |
